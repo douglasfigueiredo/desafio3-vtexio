@@ -1,6 +1,6 @@
 {
   "vendor": "hiringcoders2021",
-  "name": "desafio3",
+  "name": "wsdouglasartsdesfio3",
   "version": "0.1.1",
   "builders": {
     "styles": "2.x",
@@ -22,6 +22,7 @@
     "vtex.shelf": "1.x",
     "vtex.menu": "2.x",
     "vtex.minicart": "2.x",
+    "vtex.store-icons": "0.x",
     "vtex.product-details": "1.x",
     "vtex.product-kit": "1.x",
     "vtex.search-result": "3.x",
@@ -44,7 +45,16 @@
     "vtex.iframe": "0.x",
     "vtex.breadcrumb": "1.x",
     "vtex.sticky-layout": "0.x",
-    "vtex.add-to-cart-button": "0.x"
+    "vtex.add-to-cart-button": "0.x",
+    "vtex.search": "2.x",
+    "vtex.store-image": "0.x",
+    "vtex.product-specifications": "1.x",
+    "vtex.product-price": "1.x",
+    "vtex.product-customizer": "2.x",
+    "vtex.product-gifts": "0.x",
+    "vtex.modal-layout": "0.x",
+    "vtex.condition-layout": "2.x",
+    "vtex.store-link": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

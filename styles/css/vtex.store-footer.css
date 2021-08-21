@@ -1,0 +1,21 @@
+:global(.vtex-flex-layout-0-x-flexRow--footerDesktop) {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  background-color: #424242;
+}
+
+:global(.vtex-store-link-0-x-link--customLink){
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 20px 40px;
+  text-align: center;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,padding-top 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+:global(.vtex-store-link-0-x-label--selected){
+  color: #59ff00;
+}

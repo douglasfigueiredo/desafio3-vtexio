@@ -1,0 +1,19 @@
+
+/* add a box-shadow to desktop/mobile header when stuck */
+:global(.vtex-sticky-layout-0-x-wrapper--stuck)
+  :global(.vtex-flex-layout-0-x-flexRowContent--main-header),
+:global(.vtex-sticky-layout-0-x-wrapper--stuck)
+  :global(.vtex-flex-layout-0-x-flexRowContent--main-header-mobile) {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* stick wrapper with the same color as the desktop/mobile header */
+:global(.vtex-sticky-layout-0-x-container--sticky-header){
+  padding-top: 20px;
+  background-color: #212121;
+  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+:global(.vtex-menu-2-x-styledLinkContent ){
+  color: #fff;
+}
+

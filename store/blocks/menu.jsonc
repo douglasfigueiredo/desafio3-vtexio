@@ -1,0 +1,165 @@
+{
+  "slider-layout#menu": {
+    "children": [
+      "menu-item#1",
+      "menu-item#2",
+      "menu-item#3",
+      "menu-item#4",
+      "menu-item#5",
+      "menu-item#6",
+      "menu-item#7",
+      "menu-item#8",
+      "menu-item#9",
+      "menu-item#10"
+    ],
+    "props": {
+      "itemsPerPage": {
+        "desktop": 7
+      },
+      "autoplay":false,
+      "infinite": false,
+      "showPaginationDots":"never"
+    }
+  },
+
+  "menu-item#1": {
+    "props": {
+      "id": "menu-item-1",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "PROMOÇÃO",
+        "text": "PROMOÇÃO"
+      }
+    }
+  },
+  "menu-item#2": {
+    "props": {
+      "id": "menu-item-2",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "CORINTHIANS",
+        "text": "CORINTHIANS"
+      }
+    }
+  },
+  "menu-item#3": {
+    "props": {
+      "id": "menu-item-3",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "PALMEIRAS",
+        "text": "PALMEIRAS"
+      }
+    }
+  },
+  "menu-item#4": {
+    "props": {
+      "id": "menu-item-4",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "SIGNOS",
+        "text": "SIGNOS"
+      }
+    }
+  },
+  "menu-item#5": {
+    "props": {
+      "id": "menu-item-5",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "DIVERTIDOS",
+        "text": "DIVERTIDOS"
+      }
+    }
+  },
+  "menu-item#6": {
+    "props": {
+      "id": "menu-item-6",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "7 MARAVILHAS",
+        "text": "7 MARAVILHAS"
+      }
+    }
+  },
+  "menu-item#7": {
+    "props": {
+      "id": "menu-item-7",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "GUERREIROS",
+        "text": "GUERREIROS"
+      }
+    }
+  },
+  "menu-item#8": {
+    "props": {
+      "id": "menu-item-8",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "ÁLBUM 1",
+        "text": "ÁLBUM 1"
+      }
+    }
+  },
+  "menu-item#9": {
+    "props": {
+      "id": "menu-item-8",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "ÁLBUM 2",
+        "text": "ÁLBUM 2"
+      }
+    }
+  },
+  "menu-item#10": {
+    "props": {
+      "id": "menu-item-8",
+      "type": "custom",
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": false,
+        "tagTitle": "ÁLBUM 3",
+        "text": "ÁLBUM 3"
+      }
+    }
+  }
+}
