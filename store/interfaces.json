@@ -1,5 +1,5 @@
 {
-  "hello-world": {
-    "component": "HelloWorld"
+  "capture-leads": {
+    "component": "CaptureLead"
   }
 }

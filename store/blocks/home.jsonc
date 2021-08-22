@@ -2,7 +2,6 @@
   "store.home": { 
     "blocks": [
       "flex-layout.row",
-      "hello-world",
       "flex-layout.row#products"
     ]
   },

@@ -1,6 +1,5 @@
 /* Custom Header */
-:global(.vtex-flex-layout-0-x-flexRow--menu-header) 
-{
+:global(.vtex-flex-layout-0-x-flexRow--menu-header) {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #212121;
@@ -9,68 +8,70 @@
   color: #fff;
   width: 13px;
 }
-:global(.vtex-input-prefix__group){
+:global(.vtex-input-prefix__group) {
   border-top: none;
   border-left: none;
   border-right: none;
   border-bottom: 1px solid #fff;
   border-radius: 0;
 }
-:global(.vtex-styleguide-9-x-input){
-  background-color:#212121;
+:global(.vtex-styleguide-9-x-input) {
+  background-color: #212121;
 }
-:global(.vtex-input__suffix){
-  background-color:#212121;
+:global(.vtex-input__suffix) {
+  background-color: #212121;
   color: #fff;
 }
-:global(.vtex-store-components-3-x-searchBarIcon--search){
+:global(.vtex-store-components-3-x-searchBarIcon--search) {
   color: #fff;
 }
 /* Custom Header */
 
-
 /* Custom Slider home */
-:global(.vtex-flex-layout-0-x-flexRow--carousel){
+:global(.vtex-flex-layout-0-x-flexRow--carousel) {
   margin-top: 30px;
 }
-:global(.vtex-slider-layout-0-x-sliderLayoutContainer--carousel)
-{
+:global(.vtex-slider-layout-0-x-sliderLayoutContainer--carousel) {
   display: flex;
   align-items: start;
   max-width: 912px;
   height: 375px;
-  margin:auto;
+  margin: auto;
   background-color: transparent;
 }
-:global(.vtex-store-components-3-x-imageElement--carousel){
+:global(.vtex-store-components-3-x-imageElement--carousel) {
   border-radius: 20px 20px;
   overflow: hidden;
 }
-:global(.vtex-slider-layout-0-x-sliderArrows--carousel){
-  bottom:0px;
+:global(.vtex-slider-layout-0-x-sliderArrows--carousel) {
+  bottom: 0px;
   width: 40px;
   height: 40px;
 }
 /* Custom Slider home */
 
-:global(.vtex-search-result-3-x-galleryLayoutOptionButton){
+:global(.vtex-search-result-3-x-galleryLayoutOptionButton) {
   display: none;
 }
 
-:global(.vtex-product-summary-2-x-element){
+:global(.vtex-product-summary-2-x-element) {
   align-items: center;
   color: #fff;
   background-color: #424242;
 }
-:global(.vtex-product-summary-2-x-brandName){
+:global(.vtex-product-summary-2-x-brandName) {
   color: #fff;
 }
+:global(.vtex-product-price-1-x-sellingPriceValue--customLabelPrice) {
+  color: #4cfc0c !important;
+  font-size: 1.5rem;
+}
 
-:global(.vtex-minicart-2-x-minicartWrapperContainer){
+:global(.vtex-minicart-2-x-minicartWrapperContainer) {
   justify-content: flex-end;
 }
 
-:global(.vtex-search-result-3-x-gallery){
-  max-width:900px;
+:global(.vtex-search-result-3-x-gallery) {
+  max-width: 900px;
   margin: auto;
 }
